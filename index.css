@@ -33,5 +33,5 @@ body {
     background-color: white;
     visibility: hidden;
 
-    animation: fall 1s linear 0s 1000000;
+    animation: fall 1s linear 0s 1000000000;
 }
